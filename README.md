@@ -2,7 +2,7 @@
 
 **CHX Precision Metal (常合鑫精密五金)** is a CNC machining manufacturer based in Shajing, Bao'an District, Shenzhen, China. Founded in 2013, the company runs a 5,000 m² facility with 100+ employees and 220 machines, producing precision metal and plastic parts for customers in Europe, North America, Japan and Korea.
 
-Website: [chxmetal.com](https://chxmetal.com) (English) · [chx-metal.com](https://chx-metal.com) (中文)
+Website: [chxmetal.com](https://chxmetal.com/en/?utm_source=github&utm_medium=profile) (English) · [chx-metal.com](https://chx-metal.com/?utm_source=github&utm_medium=profile) (中文)
 
 ## Capabilities
 
