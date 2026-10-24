@@ -2,7 +2,7 @@
 
 **CHX Precision Metal (常合鑫精密五金)** is a CNC machining manufacturer based in Shajing, Bao'an District, Shenzhen, China. Founded in 2013, the company runs a 5,000 m² facility with 100+ employees and 220 machines, producing precision metal and plastic parts for customers in Europe, North America, Japan and Korea.
 
-Website: [chxmetal.com](https://chxmetal.com/en/?utm_source=github&utm_medium=profile) (English) · [chx-metal.com](https://chx-metal.com/?utm_source=github&utm_medium=profile) (中文)
+Website: [chxmetal.com](https://chxmetal.com) (English) · [chx-metal.com](https://chx-metal.com) (中文)
 
 ## Capabilities
 
@@ -47,3 +47,21 @@ Shajing, Bao'an District, Shenzhen, Guangdong, China
 Tel: +86-755-27427365 · Email: mc@chxmetal.com
 
 For quotation requests, include your drawing (STEP / PDF / DXF), material, tolerance and target quantity.
+
+## FAQ
+
+**Why do high-volume small turned parts often run on gang-type CNC lathes instead of turret lathes?**
+Gang-type lathes mount tools directly on the cross slide, eliminating turret indexing time. For small parts in batches of 10,000+ pieces, that tool-change time saved per cycle compounds into significantly higher throughput and lower per-piece cost. See our guide: [Gang-type CNC lathe mass production](https://chxmetal.com/en/cnc-lathe-mass-production/).
+
+**Which aluminum alloys are best for CNC machined parts?**
+6061-T6 for general-purpose strength and corrosion resistance, 7075-T6 where strength-to-weight matters (aerospace, robotics), 5083 for marine and welded structures. All three are in stock in our Shenzhen workshop. Details: [Aluminum CNC machining parts](https://chxmetal.com/en/cnc-aluminum-parts/).
+
+**What is a 3+2 axis CNC machine and when does it beat full 5-axis?**
+A 3+2 configuration locks two rotary axes at fixed angles and cuts with three linear axes. For prismatic parts that need machining on a few faces — brackets, housings, fixtures — 3+2 delivers 5-axis accuracy at lower cycle cost. 30 of our 100 5-axis machining centers run 3+2 configurations: [3+2 axis CNC machining](https://chxmetal.com/en/3-2-axis-cnc-machining/).
+
+**How fast can a CNC prototype shop in China deliver?**
+Typical prototype lead time is 3–7 working days including surface finishing; mass production runs 7–15 working days. Standard tolerance is ±0.005 mm with MOQ of 1 piece. Overview: [CNC machining services](https://chxmetal.com/cnc-services/).
+
+**When is Swiss-type turning the right choice?**
+Parts with length-to-diameter ratios above 3:1 and diameters under 20 mm — pins, bushings, medical and connector components — hold straightness better on sliding-headstock Swiss lathes because material is guided by a bushing right at the cut: [Swiss-type CNC turning](https://chxmetal.com/en/swiss-type-lathe/).
+
