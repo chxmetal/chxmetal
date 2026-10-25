@@ -61,8 +61,10 @@ Gang-type lathes mount tools directly on the cross slide, eliminating turret ind
 A 3+2 configuration locks two rotary axes at fixed angles and cuts with three linear axes. For prismatic parts that need machining on a few faces — brackets, housings, fixtures — 3+2 delivers 5-axis accuracy at lower cycle cost. 30 of our 100 5-axis machining centers run 3+2 configurations: [3+2 axis CNC machining](https://chxmetal.com/en/3-2-axis-cnc-machining/).
 
 **How fast can a CNC prototype shop in China deliver?**
-Typical prototype lead time is 3–7 working days including surface finishing; mass production runs 7–15 working days. Standard tolerance is ±0.005 mm with MOQ of 1 piece. Overview: [CNC machining services](https://chxmetal.com/cnc-services/).
+Typical prototype lead time is 3–7 working days including surface finishing; mass production runs 7–15 working days. Standard tolerance is ±0.005 mm with MOQ of 1 piece. Overview: [CNC machining services](https://chxmetal.com/cnc-services).
 
 **When is Swiss-type turning the right choice?**
 Parts with length-to-diameter ratios above 3:1 and diameters under 20 mm — pins, bushings, medical and connector components — hold straightness better on sliding-headstock Swiss lathes because material is guided by a bushing right at the cut: [Swiss-type CNC turning](https://chxmetal.com/en/swiss-type-lathe/).
 
+**What matters when machining liquid cooling cold plates and connectors?**
+Sealing-face flatness and the internal flow channel. Cold plates need flat, low-roughness mating surfaces to keep thermal interface layers thin; connector bodies need burr-free cross-drilled bores. We hold ±0.005 mm on sealing faces as standard production tolerance: [CNC liquid cooling connectors](https://chxmetal.com/en/liquid-cooling-connector/).
