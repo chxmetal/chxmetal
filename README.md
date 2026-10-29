@@ -54,6 +54,8 @@ For quotation requests, include your drawing (STEP / PDF / DXF), material, toler
 **Why do high-volume small turned parts often run on gang-type CNC lathes instead of turret lathes?**
 Gang-type lathes mount tools directly on the cross slide, eliminating turret indexing time. For small parts in batches of 10,000+ pieces, that tool-change time saved per cycle compounds into significantly higher throughput and lower per-piece cost. See our guide: [Gang-type CNC lathe mass production](https://chxmetal.com/en/cnc-lathe-mass-production/).
 
+中文版（大批量 CNC 加工厂家，月产 500 万件、1 件起订）：[chx-metal.com/cnc-batch-production](https://chx-metal.com/cnc-batch-production/)。
+
 **Which aluminum alloys are best for CNC machined parts?**
 6061-T6 for general-purpose strength and corrosion resistance, 7075-T6 where strength-to-weight matters (aerospace, robotics), 5083 for marine and welded structures. All three are in stock in our Shenzhen workshop. Details: [Aluminum CNC machining parts](https://chxmetal.com/en/cnc-aluminum-parts/).
 
