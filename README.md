@@ -26,8 +26,8 @@ Monthly turning capacity reaches 5 million pieces. Materials include aluminium 6
 
 ## Quality and certifications
 
-- ISO 9001:2015 — certificate NOA198428
-- ISO 14001:2015 — certificate NOA2100184
+- ISO 9001:2015 — certificate NOA1994293
+- ISO 14001:2015 — certificate 05126E02909R253
 
 Inspection reports, material certificates and dimensional records are supplied with every shipment. CE / UKCA marking applies to complete machines, not to the parts we supply; we provide the dimensional, material and process records that support our customers' own conformity assessment.
 
@@ -47,7 +47,7 @@ Inspection reports, material certificates and dimensional records are supplied w
 
 Shenzhen CHX Precision Metal Co., Ltd.
 Shajing, Bao'an District, Shenzhen, Guangdong, China
-Tel: +86-755-27427365 · Email: mc@chxmetal.com
+RFQ: https://chxmetal.com/en/contact/ · Email: mc@chxmetal.com
 
 For quotation requests, include your drawing (STEP / PDF / DXF), material, tolerance and target quantity.
 
