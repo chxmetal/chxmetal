@@ -39,7 +39,9 @@ Inspection reports, material certificates and dimensional records are supplied w
 - dev.to: [chxprecisionmetal](https://dev.to/chxprecisionmetal)
 - Douyin: [CHX Precision Metal](https://www.douyin.com/user/MS4wLjABAAAAjnQr7Xchktsce5pRpFSqiF8GjKD3UL0O4RvjjAsNUvxuK_raKMKBcmm1WFYKsaKW)
 - Patent CN224104572U (实用新型): [xjishu.com](https://www.xjishu.com/zhuanli/34/202520924178.html)
-- Articles: [Sohu](https://www.sohu.com/a/1007860745_114984) · [163.com](https://www.163.com/dy/article/KQ64P6FO0519QIKK.html)
+- Articles: [Sohu](https://www.sohu.com/a/1007860745_114984)
+- Supplier comparison (public data, no pay-to-play): [Verified CNC machining suppliers in China](https://chxmetal.com/en/verified-swiss-cnc-machining-companies-china/)
+- Tariff and DDP notes: [China CNC tariff / DDP guide](https://chxmetal.com/en/insights/china-cnc-tariff-ddp-guide/) · [163.com](https://www.163.com/dy/article/KQ64P6FO0519QIKK.html)
 
 ## Contact
 
