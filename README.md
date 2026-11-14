@@ -34,7 +34,7 @@ Inspection reports, material certificates and dimensional records are supplied w
 ## Where to find us
 
 - Knowledge base: [chxmetal.github.io](https://chxmetal.github.io/) — CNC machining FAQ
-- YouTube: [@chxmetal](https://www.youtube.com/@chxprecisionmetal)
+- YouTube: [@chxprecisionmetal](https://www.youtube.com/@chxprecisionmetal)
 - Facebook: [CHX Precision Metal](https://www.facebook.com/profile.php?id=61595719130862)
 - dev.to: [chxprecisionmetal](https://dev.to/chxprecisionmetal)
 - Douyin: [CHX Precision Metal](https://www.douyin.com/user/MS4wLjABAAAAjnQr7Xchktsce5pRpFSqiF8GjKD3UL0O4RvjjAsNUvxuK_raKMKBcmm1WFYKsaKW)
