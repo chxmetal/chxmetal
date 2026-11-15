@@ -51,6 +51,16 @@ RFQ: https://chxmetal.com/en/contact/ · Email: mc@chxmetal.com
 
 For quotation requests, include your drawing (STEP / PDF / DXF), material, tolerance and target quantity.
 
+## Technical notes
+
+Longer pieces on process mechanics, written for buyers rather than for search engines:
+
+- [Swiss-type turning: why the guide bushing decides what you can hold](https://chxmetal.github.io/swiss-type.html)
+- [±0.005 mm on a CNC part: what it means, how it is measured, what the report shows](https://chxmetal.github.io/tolerances.html)
+- [6061 vs 7075: how the alloy choice rewrites your machining quote](https://dev.to/chxprecisionmetal/aluminum-cnc-machining-what-should-you-confirm-before-sending-a-rfq-to-a-chinese-shop-5ghp)
+- [Guide bushings explained](https://dev.to/chxprecisionmetal/guide-bushings-explained-why-swiss-type-lathes-hold-tolerances-on-long-thin-parts-5gpi)
+- [Why setup time, not machine time, sets your price at 50 pieces](https://dev.to/chxprecisionmetal/why-setup-time-not-machine-time-sets-your-price-at-50-pieces-564)
+
 ## FAQ
 
 **Why do high-volume small turned parts often run on gang-type CNC lathes instead of turret lathes?**
